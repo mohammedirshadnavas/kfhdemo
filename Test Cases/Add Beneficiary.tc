@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>63e4ab61-4bcc-4644-81b4-9f564e747f5a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>63bf456c-85a9-4e67-a92a-419ecce0c8a4</id>
+      <masked>false</masked>
+      <name>nickmane</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc602021-06a3-449e-9d7d-0fe66329d33a</id>
+      <masked>false</masked>
+      <name>accno</name>
+   </variable>
+</TestCaseEntity>
