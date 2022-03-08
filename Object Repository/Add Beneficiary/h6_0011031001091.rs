@@ -4,14 +4,23 @@
    <name>h6_0011031001091</name>
    <tag></tag>
    <elementGuidId>f3d52b16-9df4-47bd-bc3d-e9c7113d0f16</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/h6[2]</value>
+         <key>BASIC</key>
+         <value>//*[(text() = '0011031001091' or . = '0011031001091')]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
          <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div/div[3]/h6[2]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

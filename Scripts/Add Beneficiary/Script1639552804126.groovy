@@ -21,7 +21,7 @@ WebUI.callTestCase(findTestCase('Login'), [:], FailureHandling.STOP_ON_FAILURE)
 
 WebUI.click(findTestObject('Object Repository/test/a_Transfers'))
 
-WebUI.click(findTestObject('Object Repository/test/div_Add BeneficiaryAdd beneficiary desc'))
+WebUI.click(findTestObject('test/div_Add BeneficiaryAdd beneficiary desc'))
 
 WebUI.click(findTestObject('Object Repository/test/div_Internal BeneficiaryAdd an Indo Zambia _a6663b'))
 
