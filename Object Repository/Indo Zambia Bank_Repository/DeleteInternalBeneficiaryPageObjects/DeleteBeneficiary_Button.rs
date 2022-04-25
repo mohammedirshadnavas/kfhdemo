@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DeleteBeneficiary_Button</name>
+   <tag></tag>
+   <elementGuidId>e9685ffb-59c6-4591-9bd8-3e1e2f14b0fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/button/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bebbeb7e-3a02-4e4b-a9d3-663a60994af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>my-auto mx-auto</value>
+      <webElementGuid>2ffc6273-0717-480b-8203-b51b04448f46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Beneficiary</value>
+      <webElementGuid>6db55f04-6f55-4a02-ac08-7a7f6117ffc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Layout&quot;)/div[@class=&quot;layout-render-section row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;new-design-form-style&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-6&quot;]/button[@class=&quot;neo-btn-new-design&quot;]/p[@class=&quot;my-auto mx-auto&quot;]</value>
+      <webElementGuid>c638f4a3-473a-4ef2-87b6-f42de9025ca9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[4]/div[2]/button/p</value>
+      <webElementGuid>5ad94268-b53b-4649-9533-48ae9a7b213f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Demo'])[1]/following::p[2]</value>
+      <webElementGuid>3a824bf6-2a28-4c34-81a2-2464f12b693b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::p[1]</value>
+      <webElementGuid>f8cef2f6-e25f-44b6-b86e-6aea9742105f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Beneficiary']/parent::*</value>
+      <webElementGuid>61b1467a-2760-415e-9cd1-f2e7a3f48165</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/p</value>
+      <webElementGuid>dce8048c-6a97-4e30-9cbf-63cc2fb7bd28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Delete Beneficiary' or . = 'Delete Beneficiary')]</value>
+      <webElementGuid>32b31694-9ae8-45ce-bdbb-00e7e88f2395</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

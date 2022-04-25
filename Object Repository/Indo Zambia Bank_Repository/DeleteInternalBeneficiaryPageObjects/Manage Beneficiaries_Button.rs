@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Manage Beneficiaries_Button</name>
+   <tag></tag>
+   <elementGuidId>3f99609f-81f2-499c-ace4-6b5b3c50663b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>36b988b3-ad32-407b-ad30-a708a6dfe801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>account-menu-card col-md-auto col-sm-auto col-auto</value>
+      <webElementGuid>0e945733-bb76-4217-bed9-5bbd7b2e988a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage BeneficiariesView your Beneficiary Details</value>
+      <webElementGuid>0ad5021d-3662-4be4-b99b-15bf083667f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Layout&quot;)/div[@class=&quot;layout-render-section row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;account-menu-card col-md-auto col-sm-auto col-auto&quot;]</value>
+      <webElementGuid>ecb71084-e77d-488f-9e99-b7756ce7cb26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[5]</value>
+      <webElementGuid>128c4e6b-1e57-48a0-a741-62fbcdf2acea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make successful payment again'])[1]/following::div[1]</value>
+      <webElementGuid>5338d897-18ab-4e92-a065-342238a57bd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Repeat Transfer'])[1]/following::div[1]</value>
+      <webElementGuid>2aaee2ea-ff5a-47c6-a5de-dfc3d2b135e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>6f00ee9f-8ad1-4b1e-9bce-04ec614bb7f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage BeneficiariesView your Beneficiary Details' or . = 'Manage BeneficiariesView your Beneficiary Details')]</value>
+      <webElementGuid>a3a167cf-245a-4f07-b191-08a663242231</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

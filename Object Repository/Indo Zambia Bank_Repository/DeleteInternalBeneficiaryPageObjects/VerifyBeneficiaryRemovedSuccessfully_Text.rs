@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>VerifyBeneficiaryRemovedSuccessfully_Text</name>
+   <tag></tag>
+   <elementGuidId>de1c0aed-ba48-4433-8175-602d4cb04449</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.mt-4.text-secondary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5b2f55d5-3046-4abb-8cca-4a834e96961a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mt-4 text-secondary</value>
+      <webElementGuid>d5499fb5-b1bf-4b46-8c4d-1bcd8a6ee759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beneficiary Removed Successfully</value>
+      <webElementGuid>313a384a-9f46-4589-b886-6b8c9edabeb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Layout&quot;)/div[@class=&quot;layout-render-section row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;new-design-form-style&quot;]/div[@class=&quot;d-flex flex-column text-center bg-white&quot;]/p[@class=&quot;mt-4 text-secondary&quot;]</value>
+      <webElementGuid>18dcc93f-c65f-4526-bf34-65ce1e03ac35</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div/div[2]/p</value>
+      <webElementGuid>c5e0306e-d409-475a-abf7-4a2257a1e00f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='//url(#linearGradient-1)//url(#linearGradient-2)'])[1]/following::p[1]</value>
+      <webElementGuid>ed488475-de9d-4652-8aa8-c275e87319c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Modify Internal Beneficiary'])[1]/following::p[1]</value>
+      <webElementGuid>ca23be5e-3024-48d0-b6d3-7fab576c818e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Beneficiary Removed Successfully']/parent::*</value>
+      <webElementGuid>46abdc26-6fbd-4097-917f-b999894b58fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8e5d6b8c-e2b9-46a7-9f33-81b359743b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Beneficiary Removed Successfully' or . = 'Beneficiary Removed Successfully')]</value>
+      <webElementGuid>83995b41-39f6-49f4-894d-b2cc98f3011b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Beneficiary_Name</name>
+   <tag></tag>
+   <elementGuidId>bd6d1111-9612-421a-ab9a-c812ddb5374f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Deno']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6a0c22b6-5e47-4699-a821-0144bf458dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Demo</value>
+      <webElementGuid>563bca9d-aa7b-4c04-8901-2a73949698af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Layout&quot;)/div[@class=&quot;layout-render-section row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-flex&quot;]/div[2]/div[@class=&quot;d-flex&quot;]/div[2]/div[2]/div[@class=&quot;row&quot;]/div[@class=&quot;bene-card col-md-auto col-sm-auto col-auto&quot;]/span[1]</value>
+      <webElementGuid>14106957-9f87-4b12-aaec-9bf284866209</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Layout']/div/div/div/div[2]/div[2]/div[2]/div[2]/div/div[3]/span</value>
+      <webElementGuid>4904968f-f69c-483e-a936-3aeadeccc1cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='anupama'])[1]/following::span[1]</value>
+      <webElementGuid>22212a08-10ba-4f56-b4d1-8f90d8a30b52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::span[2]</value>
+      <webElementGuid>dac19bbf-af14-4c2c-aa25-388e4e936365</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DANNY TUNDWE'])[1]/preceding::span[1]</value>
+      <webElementGuid>b184aa6b-1f01-485d-a138-e2f930e3b6ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TestUSD'])[1]/preceding::span[2]</value>
+      <webElementGuid>f4c0ad43-f62a-4394-be34-594dd9ed0ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Demo']/parent::*</value>
+      <webElementGuid>0d1fafe8-83ad-4bc6-8e01-a1f2e72e2b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]/span</value>
+      <webElementGuid>5890adda-668e-469b-9e1c-513b5ac41386</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Demo' or . = 'Demo')]</value>
+      <webElementGuid>22225714-8f70-45ac-afa6-1d5fb48e4b61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
